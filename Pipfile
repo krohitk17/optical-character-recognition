@@ -7,6 +7,10 @@ name = "pypi"
 numpy = "*"
 opencv-python = "*"
 ipykernel = "*"
+keras = "*"
+pandas = "*"
+matplotlib = "*"
+sklearn = "*"
 
 [dev-packages]
 autopep8 = "*"
