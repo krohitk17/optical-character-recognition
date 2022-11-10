@@ -10,7 +10,8 @@ ipykernel = "*"
 keras = "*"
 pandas = "*"
 matplotlib = "*"
-sklearn = "*"
+scikit-learn = "*"
+tensorflow-macos = "*"
 
 [dev-packages]
 autopep8 = "*"
