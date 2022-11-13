@@ -12,6 +12,8 @@ pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
 tensorflow-macos = "*"
+pillow = "*"
+seaborn = "*"
 
 [dev-packages]
 autopep8 = "*"
